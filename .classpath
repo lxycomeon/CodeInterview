@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="SolvedNoTags"/>
+	<classpathentry kind="src" path="Unsolved"/>
+	<classpathentry kind="src" path="Array"/>
+	<classpathentry kind="src" path="FirstUnSolved"/>
+	<classpathentry kind="src" path="top100Liked"/>
+	<classpathentry kind="src" path="TestJava"/>
+	<classpathentry kind="src" path="nowcoder"/>
+	<classpathentry kind="src" path="CodeOffer"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
