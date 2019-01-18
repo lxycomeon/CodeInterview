@@ -8,6 +8,7 @@
 	<classpathentry kind="src" path="TestJava"/>
 	<classpathentry kind="src" path="nowcoder"/>
 	<classpathentry kind="src" path="CodeOffer"/>
+	<classpathentry kind="src" path="zuoShenAlgorithm"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
